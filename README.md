@@ -1,5 +1,9 @@
 # Linear hall sensor with arduino
 
+## About
+
+Linear hall sensor detects the presence of magnetic fields. 0V signal output on magnetic field present, ~3.6V when no magnetic field present.
+
 ## Components
 
 - Arduino uno
