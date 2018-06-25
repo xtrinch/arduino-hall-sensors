@@ -17,3 +17,5 @@ Linear hall sensor detects the presence of magnetic fields. 0V signal output on 
 - + to 5V
 
 ## Result
+
+![](https://raw.githubusercontent.com/xTrinch/arduino-linear-hall-sensor/master/result.jpg)
