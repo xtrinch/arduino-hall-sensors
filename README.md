@@ -13,8 +13,8 @@ Linear hall sensor detects the presence of magnetic fields. 0V signal output on 
 
 ### Linear hall sensor module
 - S to A5 (analog in) of Arduino
-- - to GND
-- + to 5V
+- &minus; to GND
+- &plus; to 5V
 
 ## Result
 
