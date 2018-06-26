@@ -1,4 +1,4 @@
-# Linear hall sensor with arduino
+# Linear hall sensor
 
 ## About
 
@@ -19,3 +19,19 @@ Linear hall sensor detects the presence of magnetic fields. 0V signal output on 
 ## Result
 
 ![](https://raw.githubusercontent.com/xTrinch/arduino-linear-hall-sensor/master/result.jpg)
+
+
+# Switch hall sensor
+
+## About
+
+Switch hall sensor is the digital version of linear hall. Outputs 0 when a magnetic field is present. Buzzer is then activated at a random frequency.
+
+## Components
+
+- Arduino uno
+- Switch hall sensor (sensor module with built in resistor + indicator LED)
+
+## Connections
+- S to pin 5 of Arduino
+
