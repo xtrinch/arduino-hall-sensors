@@ -18,7 +18,7 @@ Linear hall sensor detects the presence of static magnetic fields. 0V signal out
 
 ## Result
 
-![](https://raw.githubusercontent.com/xTrinch/arduino-hall-sensors/linear-hall/result.jpg)
+![](https://github.com/xtrinch/arduino-hall-sensors/blob/master/linear-hall/result.jpg)
 
 
 # Switch hall sensor
@@ -40,4 +40,4 @@ Switch hall sensor is the digital version of linear hall. Outputs 0 when a magne
 
 ## Result
 
-![](https://raw.githubusercontent.com/xTrinch/arduino-hall-sensors/master/switch-hall/result.jpg)
+![](https://github.com/xtrinch/arduino-hall-sensors/blob/master/switch-hall/result.jpg)
