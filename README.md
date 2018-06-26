@@ -2,7 +2,7 @@
 
 ## About
 
-Linear hall sensor detects the presence of magnetic fields. 0V signal output on magnetic field present, ~3.6V when no magnetic field present. Program flashes onboard Arduino LED attached to pin 13 less frequently when no magnetic fields are present.
+Linear hall sensor detects the presence of static magnetic fields. 0V signal output on magnetic field present, ~3.6V when no magnetic field present. Program flashes onboard Arduino LED attached to pin 13 less frequently when no magnetic fields are present.
 
 ## Components
 
@@ -13,8 +13,8 @@ Linear hall sensor detects the presence of magnetic fields. 0V signal output on 
 
 ### Linear hall sensor module
 - S to A5 (analog in) of Arduino
-- - to GND
-- + to 5V
+- &minus; to GND
+- &plus; to 5V
 
 ## Result
 
