@@ -46,7 +46,7 @@ Switch hall sensor is the digital version of linear hall. Consists of voltage re
 
 ## About
 
-Linear hall with comparator can output analog & digital values.
+Linear hall sensor with comparator LM393 can output analog & digital values.
 
 ## Components
 
