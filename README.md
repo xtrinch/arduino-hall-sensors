@@ -74,5 +74,5 @@ Linear hall with comparator can output analog & digital values.
 
 ## Result
 
-![](https://github.com/xtrinch/arduino-hall-sensors/blob/master/switch-hall/result1.jpg)
-![](https://github.com/xtrinch/arduino-hall-sensors/blob/master/switch-hall/result2.jpg)
+![](https://github.com/xtrinch/arduino-hall-sensors/blob/master/linear-hall-with-comparator/result1.jpg)
+![](https://github.com/xtrinch/arduino-hall-sensors/blob/master/linear-hall-with-comparator/result2.jpg)
